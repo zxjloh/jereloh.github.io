@@ -27,7 +27,7 @@ navbar-links:
   Life:
     - Motivation: "topics_life"
   Resources:
-    - Markdown : "_posts/2020-02-25-Markdown" 
+    - Markdown : "/_posts/2020-02-25-Markdown" 
   Allies:
     - Sam: "https://samandham.github.io/"
 
