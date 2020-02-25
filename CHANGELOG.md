@@ -1,6 +1,6 @@
 # CHANGELOG
 
-This file lists all changes compared to Beautiful Jekyll from 2018-12-24.
+This file lists and tracks all changes compared to Beautiful Jekyll from 2018-12-24.
 
 - Removed Disqus
 - Removed fb-comment
@@ -8,3 +8,4 @@ This file lists all changes compared to Beautiful Jekyll from 2018-12-24.
 - Removed matomo
 - Removed staticman-comments
 - Removed staticman
+

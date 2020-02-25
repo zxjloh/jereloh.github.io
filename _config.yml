@@ -21,9 +21,11 @@ description: Tech Dilettante
 # List of links in the navigation bar
 navbar-links:
   Me: "aboutme"
-  Topics:
+  Tech:
     - VMware : "topics_VMWknowledge"
     - Homelabo: "topics_Homelabo"
+  Life:
+    - Motivation: "topics_life"
   Resources:
     - Markdown : "/_posts/2020-02-25-Markdown" 
   Allies:
